@@ -1,4 +1,4 @@
-In this project, let's fix the **IPL Dashboard** by applying the concepts we have learned till now.
+
 
 ### Refer to the image below:
 
@@ -20,10 +20,10 @@ In this project, let's fix the **IPL Dashboard** by applying the concepts we hav
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be fixed</summary>
+<summary>Functionality to be added</summary>
 <br/>
 
-Fix the given code to have the following functionality
+Add the code to have the following functionality
 
 - When the app is opened, Home Route should be displayed
 - When the Home Route is opened,
@@ -124,15 +124,7 @@ Returns a response containing details of all recent matches of a team
 
 </details>
 
-### Quick Tips
 
-<details>
-<summary>Click to view</summary>
-<br>
-
-- There are `13` bugs to be fixed to achieve the functionality and the UI that is expected
-
-</details>
 
 ### Important Note
 
